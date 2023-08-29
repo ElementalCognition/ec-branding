@@ -1,0 +1,162 @@
+[
+  {
+    "type": "color",
+    "name": "White",
+    "color": {
+      "model": "CMYK",
+      "c": 0,
+      "m": 0,
+      "y": 0,
+      "k": 0,
+      "type": "normal"
+    }
+  },
+  {
+    "type": "group",
+    "name": "EC Brand Color",
+    "entries": [
+      {
+        "type": "color",
+        "name": "EC Dark",
+        "color": {
+          "model": "CMYK",
+          "c": 0.8690470457077026,
+          "m": 0.8661478757858276,
+          "y": 0.4910047948360443,
+          "k": 0.688715934753418,
+          "type": "global"
+        }
+      },
+      {
+        "type": "color",
+        "name": "EC Brand Primary Pink",
+        "color": {
+          "model": "CMYK",
+          "c": 0,
+          "m": 0.965636670589447,
+          "y": 0.08349736779928207,
+          "k": 0,
+          "type": "global"
+        }
+      },
+      {
+        "type": "color",
+        "name": "EC Brand Secondary Pink",
+        "color": {
+          "model": "CMYK",
+          "c": 0.2676127254962921,
+          "m": 1,
+          "y": 0.29501792788505554,
+          "k": 0.022827496752142906,
+          "type": "global"
+        }
+      }
+    ]
+  },
+  {
+    "type": "group",
+    "name": "EC Neutrals",
+    "entries": [
+      {
+        "type": "color",
+        "name": "EC Black",
+        "color": {
+          "model": "CMYK",
+          "c": 0,
+          "m": 0,
+          "y": 0,
+          "k": 1,
+          "type": "global"
+        }
+      },
+      {
+        "type": "color",
+        "name": "EC White",
+        "color": {
+          "model": "CMYK",
+          "c": 0,
+          "m": 0,
+          "y": 0,
+          "k": 0,
+          "type": "global"
+        }
+      },
+      {
+        "type": "color",
+        "name": "EC Neutral 400",
+        "color": {
+          "model": "CMYK",
+          "c": 0.19467459619045258,
+          "m": 0.15017929673194885,
+          "y": 0.15637445449829102,
+          "k": 0,
+          "type": "global"
+        }
+      },
+      {
+        "type": "color",
+        "name": "EC Neutral 600",
+        "color": {
+          "model": "CMYK",
+          "c": 0.4261539578437805,
+          "m": 0.347417414188385,
+          "y": 0.3531853258609772,
+          "k": 0.009857328608632088,
+          "type": "global"
+        }
+      },
+      {
+        "type": "color",
+        "name": "EC Neutral 1100",
+        "color": {
+          "model": "CMYK",
+          "c": 0,
+          "m": 0,
+          "y": 0,
+          "k": 0.949999988079071,
+          "type": "global"
+        }
+      }
+    ]
+  },
+  {
+    "type": "group",
+    "name": "Pantone",
+    "entries": [
+      {
+        "type": "color",
+        "name": "Magenta C",
+        "color": {
+          "model": "CMYK",
+          "c": 0,
+          "m": 1,
+          "y": 0,
+          "k": 0,
+          "type": "spot"
+        }
+      },
+      {
+        "type": "color",
+        "name": "PANTONE 5255 C",
+        "color": {
+          "model": "LAB",
+          "lightness": 0.10588234663009644,
+          "a": 8,
+          "b": -17,
+          "type": "spot"
+        }
+      },
+      {
+        "type": "color",
+        "name": "PANTONE 227 C",
+        "color": {
+          "model": "LAB",
+          "lightness": 0.37254902720451355,
+          "a": 67,
+          "b": -4,
+          "type": "spot"
+        }
+      }
+    ]
+  }
+]

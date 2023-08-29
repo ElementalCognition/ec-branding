@@ -1,0 +1,122 @@
+[
+  {
+    "type": "color",
+    "name": "White",
+    "color": {
+      "model": "RGB",
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "hex": "FFFFFF",
+      "type": "normal"
+    }
+  },
+  {
+    "type": "group",
+    "name": "EC Brand Color",
+    "entries": [
+      {
+        "type": "color",
+        "name": "EC Dark",
+        "color": {
+          "model": "RGB",
+          "r": 0.062745101749897,
+          "g": 0,
+          "b": 0.16862745583057404,
+          "hex": "10002B",
+          "type": "global"
+        }
+      },
+      {
+        "type": "color",
+        "name": "EC Brand Primary Pink",
+        "color": {
+          "model": "RGB",
+          "r": 1,
+          "g": 0,
+          "b": 0.5254902243614197,
+          "hex": "FF0086",
+          "type": "global"
+        }
+      },
+      {
+        "type": "color",
+        "name": "EC Brand Secondary Pink",
+        "color": {
+          "model": "RGB",
+          "r": 0.7215686440467834,
+          "g": 0,
+          "b": 0.41960784792900085,
+          "hex": "B8006B",
+          "type": "global"
+        }
+      }
+    ]
+  },
+  {
+    "type": "group",
+    "name": "EC Neutrals",
+    "entries": [
+      {
+        "type": "color",
+        "name": "EC Black",
+        "color": {
+          "model": "RGB",
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "hex": "000000",
+          "type": "global"
+        }
+      },
+      {
+        "type": "color",
+        "name": "EC White",
+        "color": {
+          "model": "RGB",
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "hex": "FFFFFF",
+          "type": "global"
+        }
+      },
+      {
+        "type": "color",
+        "name": "EC Neutral 400",
+        "color": {
+          "model": "RGB",
+          "r": 0.800000011920929,
+          "g": 0.800000011920929,
+          "b": 0.800000011920929,
+          "hex": "CCCCCC",
+          "type": "global"
+        }
+      },
+      {
+        "type": "color",
+        "name": "EC Neutral 600",
+        "color": {
+          "model": "RGB",
+          "r": 0.6000000238418579,
+          "g": 0.6000000238418579,
+          "b": 0.6000000238418579,
+          "hex": "999999",
+          "type": "global"
+        }
+      },
+      {
+        "type": "color",
+        "name": "EC Neutral 1100",
+        "color": {
+          "model": "RGB",
+          "r": 0.09019608050584793,
+          "g": 0.09019608050584793,
+          "b": 0.09019608050584793,
+          "hex": "171717",
+          "type": "global"
+        }
+      }
+    ]
+  }
+]
